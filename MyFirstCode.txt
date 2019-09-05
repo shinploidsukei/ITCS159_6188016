@@ -1,1 +1,4 @@
 "Hello World!"
+"The faculty of Information"
+"This is my new feature"
+"add from the master"
